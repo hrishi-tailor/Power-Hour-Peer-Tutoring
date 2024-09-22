@@ -77,6 +77,12 @@ section{
     box-shadow: var(--box-shadow);
 }
 
+@media (max-width: 768px) {
+    .heading {
+        font-size: 3rem; /* Smaller text for mobile view */
+    }
+}
+
 .header {
     position: fixed;
     top: 0;
