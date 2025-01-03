@@ -1,4 +1,4 @@
-# 📚 # [📚 Power Hour Peer Tutoring Website](https://powerhourpeertutoring.vercel.app/)  
+# [📚 Power Hour Peer Tutoring Website](https://powerhourpeertutoring.vercel.app/)  
 
 An elegant and intuitive landing page designed to revolutionize the way tutors and tutees connect, streamlining peer tutoring coordination through innovative use of web technologies and seamless data management.
 
